@@ -3,5 +3,8 @@ alskdjflka
 aslkjdflkasjdf
 alskdjflksajdf
 aslkdjflaskjdf
+<<<<<<< Updated upstream
 laskdjfklajs
 asdklfjalskjdf
+=======
+>>>>>>> Stashed changes
